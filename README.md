@@ -21,8 +21,8 @@
       - 10 is the neurons number for 10 different digits
       - activation function is softmax
   
-  - ## get the prediction probabilites for the first 4 images
+ - ## get the prediction probabilites for the first 4 images
  
-  - ## display the first 4 images
+ - ## display the first 4 images
  
-  - ## Model Summary
+ - ## Model Summary
